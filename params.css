@@ -1,0 +1,41 @@
+body{
+	font-family: arial;
+	background-color: #ffffff;
+}
+
+button{
+	font-size: 15px;
+	font-weight: normal;
+	padding: 10px 15px;
+	color: #000000;
+	border-color: #ffffff;
+	border-radius: 5px;
+	background-color: #ffffff;
+	border: 1px solid #333!important;
+	outline: none!important;
+	text-align: center;
+	margin-top: 5px;
+}
+
+#obor1, #obor2{
+	margin-top: 3px;
+} 
+
+#nasos1, #lebedka1, #rastvor1, #nasos2, #lebedka2, #rastvor2{
+	margin-top: inherit;
+}
+
+#chart{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: -25px;
+}
+
+#main{
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+
+
